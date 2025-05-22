@@ -55,7 +55,7 @@ main {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  margin-top: 20px;
+  margin-top: 50px;
 }
 .BtnS > a {
   text-decoration: none;
